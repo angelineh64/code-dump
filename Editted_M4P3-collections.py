@@ -1,3 +1,6 @@
+Last editted by: Angeline Hidalgo
+Editted on: Februrary 9, 2020
+    
 # Create a collection of these authors and
 # the year they kicked the bucket;
 # print the collection in the following format:
