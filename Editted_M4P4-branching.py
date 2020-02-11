@@ -1,3 +1,6 @@
+Last editted by: Angeline Hidalgo
+Editted on: Februrary 9, 2020
+
 # A time traveler has suddenly appeared in your classroom!
 
 # Create a variable representing the traveler's
@@ -10,6 +13,7 @@ year = int(input("Greetings! What is your year of origin? "))
 
 if year <= 1900:
     print ("Woah, that's the past!")
+# Had to adjust so that it would not print "That's totally the present!" when entering 2021.
 elif year > 1900 & year >= 2020:
     print ("That's totally the present!")
 else:
